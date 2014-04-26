@@ -1,0 +1,4 @@
+<Model name="5" geometry="collada/5.geo">
+
+	<Mesh name="instance_0" material="collada/material.material.xml" tx="144.725" ty="1.46664e-07" tz="295.135" batchStart="0" batchCount="69" vertRStart="0" vertREnd="69" />
+</Model>
